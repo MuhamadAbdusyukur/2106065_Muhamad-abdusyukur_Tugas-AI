@@ -41,5 +41,5 @@ indukbesar(X, Y) :- induk(X, Z), induk(Z, Y).
 is_sodarakandung(X, Y):- sodarakandung(X, Y).
 is_pasangan(X, Y):- pasangan(X, Y).
 is_belommenikah(X, Y):- belommenikah(X,Y).
-is_sodaraipar(X, Y):- sodaraipar(x, y).
+is_sodaraipar(X, Y):- sodaraipar(X, Y).
 
